@@ -3,16 +3,17 @@
       {
         "listing": 1,
         "type1": "Apartment",
-        "type2": "3 Bed",
+        "type2": "2 Beds 4 2,799 sqft Baths Full Sea View | Large Terrace | Direct Beach Access",
         "type3": "Rent",
         "price": "450K",
         "status": "Rented Out",
         "images": [
-          "img/services/service-1.jpg",
-          "img/services/service-2.jpg",
-          "img/services/service-3.jpg"
+          "https://images.bayut.com/thumbnails/407071346-800x600.webp",
+          "https://images.bayut.com/thumbnails/407071349-400x300.webp",
+          "https://images.bayut.com/thumbnails/407071352-400x300.webp",
+          "https://images.bayut.com/thumbnails/407071355-400x300.webp"
         ],
-        "description": "LUXURIOUS 2 BEDROOM FULLY FURNISHED APARTMENT AT HIGH FLOORS MODERN AND LUXURY FURNISHING HIGHLY PREFER COMMUNITY these remarkable residences are ideally located within close proximity to iconic landmarks such as the Louvre Abu Dhabi."
+        "description": "Turquoise, Mamsha Al Saadiyat, Saadiyat Cultural District, Saadiyat Island, Abu Dhabi. ➥The unit is a luxury unit for rent in Mamsha Al Saadiyat, Saadiyat Island, Abu Dhabi. ➥Located in well established community, this 2 bedroom apartment plus maids room apartment comes with 3 bathrooms , 1 parking space and an area of 2799 sq. ft ➥This 2 bedroom apartment plus maids room apartment has Sea and Community View. Mamsha Al Saadiyat in Saadiyat Cultural District promises to be a first-of-its-kind beachfront residential and retail destination. Offering a range of lofts and spacious apartments and townhouses within walking distance of Louvre Abu Dhabi, Zayed National Museum, and Guggenheim Abu Dhabi, as well as The District retail complex, where world-class shopping, dining, and entertainment venues await. "
       },
       {
         "listing": 2,
