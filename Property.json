@@ -32,17 +32,18 @@
       },
       {
         "listing": 3,
-        "type1": "Villa",
-        "type2": "3 Bed",
+        "type1": "Apartment",
+        "type2": "Spacious 3BHK + Maid's with 2 balconies & parking",
         "type3": "Rent",
-        "price": "230K",
+        "price": "120K",
         "status": "Rented Out",
         "images": [
-          "img/services/service-3.jpg",
-          "img/services/service-2.jpg",
-          "img/services/service-3.jpg"
+          "https://images.bayut.com/thumbnails/671797121-800x600.webp",
+          "https://images.bayut.com/thumbnails/671797124-400x300.webp",
+          "https://images.bayut.com/thumbnails/671797128-400x300.webp",
+          "https://images.bayut.com/thumbnails/671797133-400x300.webp"
         ],
-        "description": "Exquisite Four-Bedroom Villa | A Luxurious Haven of Modern Comfort and Convenience with Six Payments in Fortress Compound."
+        "description": "A spacious residential 3-bedroom apartment within a villa, located in Al Manhal - Abu Dhabi.  The community neighbors the Al Nahyan, Al Khalidiyah, Al Mushrif, and Al Bateen districts.  "
       },
       {
         "listing": 4,
