@@ -7,7 +7,11 @@
         "type3": "Rent",
         "price": "450K",
         "status": "Rented Out",
-        "image": "img/services/service-1.jpg",
+        "images": [
+          "img/services/service-1.jpg",
+          "img/services/service-2.jpg",
+          "img/services/service-3.jpg"
+        ],
         "description": "LUXURIOUS 2 BEDROOM FULLY FURNISHED APARTMENT AT HIGH FLOORS MODERN AND LUXURY FURNISHING HIGHLY PREFER COMMUNITY these remarkable residences are ideally located within close proximity to iconic landmarks such as the Louvre Abu Dhabi."
       },
       {
@@ -17,7 +21,11 @@
         "type3": "Rent",
         "price": "Call For The Price",
         "status": "Available ",
-        "image": "img/services/service-2.jpg",
+        "images": [
+          "img/services/service-2.jpg",
+          "img/services/service-2.jpg",
+          "img/services/service-3.jpg"
+        ],
         "description": "Exquisite Four-Bedroom Villa | A Luxurious Haven of Modern Comfort and Convenience with Six Payments in Fortress Compound."
       },
       {
@@ -27,7 +35,11 @@
         "type3": "Rent",
         "price": "230K",
         "status": "Rented Out",
-        "image": "img/services/service-3.jpg",
+        "images": [
+          "img/services/service-3.jpg",
+          "img/services/service-2.jpg",
+          "img/services/service-3.jpg"
+        ],
         "description": "Exquisite Four-Bedroom Villa | A Luxurious Haven of Modern Comfort and Convenience with Six Payments in Fortress Compound."
       },
       {
@@ -37,7 +49,11 @@
         "type3": "Rent",
         "price": "170K",
         "status": "Rented Out",
-        "image": "img/services/service-4.jpg",
+        "images": [
+          "img/services/service-4.jpg",
+          "img/services/service-2.jpg",
+          "img/services/service-3.jpg"
+        ],
         "description": "Awesome Townhouse has a high-standard classy finish with modern fixtures and fitting that catches the eyes and high-quality tiled flooring and false ceilings."
       },
       {
@@ -47,7 +63,10 @@
         "type3": "Rent",
         "price": "119K",
         "status": "Available",
-        "image": "img/services/service-5.jpg",
+        "images": [
+          "img/services/service-5.jpg",
+          "img/services/service-2.jpg",
+          "img/services/service-3.jpg"        ],
         "description": "LUXURIOUS 3 BEDROOM FULLY FURNISHED APARTMENT AT HIGH FLOORS MODERN AND LUXURY FURNISHING HIGHLY PREFER COMMUNITY."
       },
       {
@@ -57,7 +76,10 @@
         "type3": "Rent",
         "price": "220K",
         "status": "Rented Out",
-        "image": "img/services/service-6.jpg",
+        "images": [
+          "img/services/service-6.jpg",
+          "img/services/service-2.jpg",
+          "img/services/service-3.jpg"        ],
         "description": "Awesome Townhouse has a high-standard classy finish with modern fixtures and fitting that catches the eyes and high-quality tiled flooring and false ceilings."
       }
     ]
