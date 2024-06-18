@@ -53,8 +53,8 @@
         "price": "120K",
         "status": "Rented Out",
         "images": [
-          "https://images.bayut.com/thumbnails/671797121-800x600.webp",
           "https://images.bayut.com/thumbnails/671797124-400x300.webp",
+          "https://images.bayut.com/thumbnails/671797121-800x600.webp",
           "https://images.bayut.com/thumbnails/671797128-400x300.webp",
           "https://images.bayut.com/thumbnails/671797133-400x300.webp"
         ],
@@ -68,9 +68,9 @@
         "price": "120K",
         "status": "Rented Out",
         "images": [
+          "https://images.bayut.com/thumbnails/671797128-400x300.webp",
           "https://images.bayut.com/thumbnails/671797121-800x600.webp",
           "https://images.bayut.com/thumbnails/671797124-400x300.webp",
-          "https://images.bayut.com/thumbnails/671797128-400x300.webp",
           "https://images.bayut.com/thumbnails/671797133-400x300.webp"
         ],
         "description": "A spacious residential 3-bedroom apartment within building, located in Al Manhal - Abu Dhabi.  The community neighbors the Al Nahyan, Al Khalidiyah, Al Mushrif, and Al Bateen districts.  "
@@ -83,10 +83,10 @@
         "price": "140K",
         "status": "Rented Out",
         "images": [
+          "https://images.bayut.com/thumbnails/671797133-400x300.webp",
           "https://images.bayut.com/thumbnails/671797121-800x600.webp",
           "https://images.bayut.com/thumbnails/671797124-400x300.webp",
-          "https://images.bayut.com/thumbnails/671797128-400x300.webp",
-          "https://images.bayut.com/thumbnails/671797133-400x300.webp"
+          "https://images.bayut.com/thumbnails/671797128-400x300.webp"
         ],
         "description": "A spacious residential 3-bedroom apartment within building, located in Al Manhal - Abu Dhabi.  The community neighbors the Al Nahyan, Al Khalidiyah, Al Mushrif, and Al Bateen districts.  "
       },
@@ -113,9 +113,9 @@
         "price": "120K",
         "status": "Rented Out",
         "images": [
-          "https://images.bayut.com/thumbnails/671797121-800x600.webp",
-          "https://images.bayut.com/thumbnails/671797124-400x300.webp",
           "https://images.bayut.com/thumbnails/671797128-400x300.webp",
+          "https://images.bayut.com/thumbnails/671797124-400x300.webp",
+          "https://images.bayut.com/thumbnails/671797121-800x600.webp",
           "https://images.bayut.com/thumbnails/671797133-400x300.webp"
         ],
         "description": "A spacious residential 3-bedroom apartment within building, located in Al Manhal - Abu Dhabi.  The community neighbors the Al Nahyan, Al Khalidiyah, Al Mushrif, and Al Bateen districts.  "
@@ -128,10 +128,7 @@
         "price": "60K",
         "status": "Rented Out",
         "images": [
-          "https://images.bayut.com/thumbnails/671797121-800x600.webp",
-          "https://images.bayut.com/thumbnails/671797124-400x300.webp",
-          "https://images.bayut.com/thumbnails/671797128-400x300.webp",
-          "https://images.bayut.com/thumbnails/671797133-400x300.webp"
+          "https://images.bayut.com/thumbnails/671797124-400x300.webp"
         ],
         "description": "A spacious residential Studio apartment within building, located in Al Manhal - Abu Dhabi.  The community neighbors the Al Nahyan, Al Khalidiyah, Al Mushrif, and Al Bateen districts.  "
       },
@@ -143,10 +140,7 @@
         "price": "60K",
         "status": "Rented Out",
         "images": [
-          "https://images.bayut.com/thumbnails/671797121-800x600.webp",
-          "https://images.bayut.com/thumbnails/671797124-400x300.webp",
-          "https://images.bayut.com/thumbnails/671797128-400x300.webp",
-          "https://images.bayut.com/thumbnails/671797133-400x300.webp"
+          "https://images.bayut.com/thumbnails/671797128-400x300.webp"
         ],
         "description": "A spacious residential Studio apartment within building, located in Al Manhal - Abu Dhabi.  The community neighbors the Al Nahyan, Al Khalidiyah, Al Mushrif, and Al Bateen districts.  "
       },
