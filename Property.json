@@ -1,1 +1,34 @@
-
+{
+    "properties": [
+      {
+        "type": "Apartment",
+        "image": "img/services/service-1.jpg",
+        "description": "L#21547 Rented Price: 450K LUXURIOUS 2 BEDROOM FULLY FURNISHED APARTMENT AT HIGH FLOORS MODERN AND LUXURY FURNISHING HIGHLY PREFER COMMUNITY these remarkable residences are ideally located within close proximity to iconic landmarks such as the Louvre Abu Dhabi."
+      },
+      {
+        "type": "Villa",
+        "image": "img/services/service-2.jpg",
+        "description": "L#21544 Call For Price: Exquisite Four-Bedroom Villa | A Luxurious Haven of Modern Comfort and Convenience with Six Payments in Fortress Compound."
+      },
+      {
+        "type": "Villa",
+        "image": "img/services/service-3.jpg",
+        "description": "L#21541 Rented Price: 230K Exquisite Four-Bedroom Villa | A Luxurious Haven of Modern Comfort and Convenience with Six Payments in Fortress Compound."
+      },
+      {
+        "type": "Townhouse",
+        "image": "img/services/service-4.jpg",
+        "description": "L#26547 Rented Price: 170K Awesome Townhouse has a high-standard classy finish with modern fixtures and fitting that catches the eyes and high-quality tiled flooring and false ceilings."
+      },
+      {
+        "type": "Apartment",
+        "image": "img/services/service-5.jpg",
+        "description": "L#25547 Rented Price: 119K LUXURIOUS 3 BEDROOM FULLY FURNISHED APARTMENT AT HIGH FLOORS MODERN AND LUXURY FURNISHING HIGHLY PREFER COMMUNITY."
+      },
+      {
+        "type": "Townhouse",
+        "image": "img/services/service-6.jpg",
+        "description": "L#21047 Rented Price: 220K Awesome Townhouse has a high-standard classy finish with modern fixtures and fitting that catches the eyes and high-quality tiled flooring and false ceilings."
+      }
+    ]
+  }
