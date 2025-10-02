@@ -1,0 +1,154 @@
+[
+  {
+    "id": "marina-view-apartment",
+    "title": "Marina View Apartment",
+    "type": "Apartment",
+    "sale": "buy",
+    "price": 1850000,
+    "priceText": "AED 1,850,000",
+    "beds": 2,
+    "baths": 2,
+    "size": 120,
+    "location": "Marina",
+    "img": "assets/images/property-1.jpg",
+    "images": [
+      "assets/images/property-1.jpg"
+    ],
+    "dateAdded": "2025-09-20",
+    "expire": "2025-12-31",
+    "desc": "Modern apartment with marina and skyline views, open-plan living and access to gym & pool."
+  },
+  {
+    "id": "downtown-studio",
+    "title": "Downtown Studio",
+    "type": "Studio",
+    "sale": "rent",
+    "price": 85000,
+    "priceText": "AED 85,000 / yr",
+    "beds": 0,
+    "baths": 1,
+    "size": 45,
+    "location": "Downtown",
+    "img": "assets/images/property-2.jpg",
+    "images": [
+      "assets/images/property-2.jpg"
+    ],
+    "dateAdded": "2025-09-25",
+    "expire": "2025-11-15",
+    "desc": "Efficient studio in the heart of Downtown with easy access to transport and retail."
+  },
+  {
+    "id": "palm-villa-retreat",
+    "title": "Palm Villa Retreat",
+    "type": "Villa",
+    "sale": "buy",
+    "price": 7900000,
+    "priceText": "AED 7,900,000",
+    "beds": 5,
+    "baths": 6,
+    "size": 520,
+    "location": "Palm Jumeirah",
+    "img": "assets/images/property-3.jpg",
+    "images": [
+      "assets/images/property-3.jpg"
+    ],
+    "dateAdded": "2025-09-12",
+    "expire": "2026-01-31",
+    "desc": "Private pool, landscaped garden, and direct beach access. Perfect for family living."
+  },
+  {
+    "id": "townhouse-with-garden",
+    "title": "Townhouse with Garden",
+    "type": "Townhouse",
+    "sale": "rent",
+    "price": 420000,
+    "priceText": "AED 420,000 / yr",
+    "beds": 3,
+    "baths": 3,
+    "size": 210,
+    "location": "Arabian Ranches",
+    "img": "assets/images/property-4.jpg",
+    "images": [
+      "assets/images/property-4.jpg"
+    ],
+    "dateAdded": "2025-09-18",
+    "expire": "2025-12-15",
+    "desc": "Corner unit with a spacious garden and community clubhouse access."
+  },
+  {
+    "id": "skyline-office-floor",
+    "title": "Skyline Office Floor",
+    "type": "Office",
+    "sale": "rent",
+    "price": 300000,
+    "priceText": "AED 300,000 / yr",
+    "beds": 0,
+    "baths": 2,
+    "size": 380,
+    "location": "Business Bay",
+    "img": "assets/images/property-1.jpg",
+    "images": [
+      "assets/images/property-1.jpg"
+    ],
+    "dateAdded": "2025-09-10",
+    "expire": "2025-11-30",
+    "desc": "Grade A office floor with skyline views, fitted and ready for immediate move-in."
+  },
+  {
+    "id": "beachfront-apartment",
+    "title": "Beachfront Apartment",
+    "type": "Apartment",
+    "sale": "buy",
+    "price": 3250000,
+    "priceText": "AED 3,250,000",
+    "beds": 3,
+    "baths": 3,
+    "size": 165,
+    "location": "JBR",
+    "img": "assets/images/property-2.jpg",
+    "images": [
+      "assets/images/property-2.jpg"
+    ],
+    "dateAdded": "2025-09-22",
+    "expire": "2026-03-31",
+    "desc": "Bright beachfront home with sea views, large balcony, and premium building amenities."
+  },
+  {
+    "id": "family-villa-in-al-raha",
+    "title": "Family Villa in Al Raha",
+    "type": "Villa",
+    "sale": "buy",
+    "price": 3400000,
+    "priceText": "AED 3,400,000",
+    "beds": 4,
+    "baths": 3,
+    "size": 350,
+    "location": "Al Raha",
+    "img": "assets/images/property-2.jpg",
+    "images": [
+      "assets/images/property-2.jpg"
+    ],
+    "dateAdded": "2025-09-14",
+    "expire": "2026-01-15",
+    "desc": "Spacious villa with garden and garage in a calm community."
+  },
+  {
+    "id": "retail-space-prime-location",
+    "title": "Retail Space \u2014 Prime Location",
+    "type": "Commercial",
+    "sale": "rent",
+    "price": 85000,
+    "priceText": "AED 85,000 / yr",
+    "beds": 0,
+    "baths": 1,
+    "size": 120,
+    "location": "Downtown",
+    "img": "assets/images/property-3.jpg",
+    "images": [
+      "assets/images/property-3.jpg"
+    ],
+    "dateAdded": "2025-09-08",
+    "expire": "2025-11-10",
+    "desc": "Street-level retail with high footfall and wide frontage."
+  }
+]
