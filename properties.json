@@ -17,7 +17,7 @@
       "assets/images/property-3.jpg"
     ],
     "dateAdded": "2025-09-20",
-    "expire": "2025-12-31",
+    "expire": "5",
     "desc": "Modern apartment with marina and skyline views, open-plan living and access to gym & pool."
   },
   {
@@ -112,7 +112,7 @@
       "assets/images/property-2.jpg"
     ],
     "dateAdded": "2025-09-22",
-    "expire": "2026-03-31",
+    "expire": "1",
     "desc": "Bright beachfront home with sea views, large balcony, and premium building amenities."
   },
   {
@@ -131,7 +131,7 @@
       "assets/images/property-2.jpg"
     ],
     "dateAdded": "2025-09-14",
-    "expire": "2026-01-15",
+    "expire": "15",
     "desc": "Spacious villa with garden and garage in a calm community."
   },
   {
@@ -150,7 +150,7 @@
       "assets/images/property-3.jpg"
     ],
     "dateAdded": "2025-09-08",
-    "expire": "2025-11-10",
+    "expire": "10",
     "desc": "Street-level retail with high footfall and wide frontage."
   }
 ]
