@@ -1,20 +1,20 @@
 [
   {
     "id": "AlAin",
-    "title": "AlAin",
+    "title": "Al Ghadeer",
     "type": "Apartment",
     "sale": "buy",
-    "price": 1850000,
+    "price": 18500000,
     "priceText": "AED 1,850,000",
     "beds": 2,
     "baths": 2,
     "size": 120,
     "location": "Marina",
-    "img": "assets/images/property-1.jpg",
+    "img": "https://images.bayut.com/thumbnails/797195643-800x600.webp",
     "images": [
-      "assets/images/property-1.jpg",
-      "assets/images/property-2.jpg",
-      "assets/images/property-3.jpg"
+      "https://images.bayut.com/thumbnails/797195526-800x600.webp",
+      "https://images.bayut.com/thumbnails/797195528-800x600.webp",
+      "https://images.bayut.com/thumbnails/797195644-800x600.webp"
     ],
     "dateAdded": "2025-09-20",
     "expire": "100",
