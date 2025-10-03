@@ -17,7 +17,7 @@
       "assets/images/property-3.jpg"
     ],
     "dateAdded": "2025-09-20",
-    "expire": "5",
+    "expire": "100",
     "desc": "Modern apartment with marina and skyline views, open-plan living and access to gym & pool."
   },
   {
@@ -36,7 +36,7 @@
       "assets/images/property-2.jpg"
     ],
     "dateAdded": "2025-09-25",
-    "expire": "5",
+    "expire": "100",
     "desc": "Efficient studio in the heart of Downtown with easy access to transport and retail."
   },
   {
@@ -55,7 +55,7 @@
       "assets/images/property-3.jpg"
     ],
     "dateAdded": "2025-09-12",
-    "expire": "20",
+    "expire": "100",
     "desc": "Private pool, landscaped garden, and direct beach access. Perfect for family living."
   },
   {
@@ -74,7 +74,7 @@
       "assets/images/property-4.jpg"
     ],
     "dateAdded": "2025-09-18",
-    "expire": "10",
+    "expire": "100",
     "desc": "Corner unit with a spacious garden and community clubhouse access."
   },
   {
@@ -93,7 +93,7 @@
       "assets/images/property-1.jpg"
     ],
     "dateAdded": "2025-09-10",
-    "expire": "7",
+    "expire": "100",
     "desc": "Grade A office floor with skyline views, fitted and ready for immediate move-in."
   },
   {
@@ -112,7 +112,7 @@
       "assets/images/property-2.jpg"
     ],
     "dateAdded": "2025-09-22",
-    "expire": "1",
+    "expire": "100",
     "desc": "Bright beachfront home with sea views, large balcony, and premium building amenities."
   },
   {
@@ -131,7 +131,7 @@
       "assets/images/property-2.jpg"
     ],
     "dateAdded": "2025-09-14",
-    "expire": "15",
+    "expire": "100",
     "desc": "Spacious villa with garden and garage in a calm community."
   },
   {
@@ -150,7 +150,7 @@
       "assets/images/property-3.jpg"
     ],
     "dateAdded": "2025-09-08",
-    "expire": "10",
+    "expire": "100",
     "desc": "Street-level retail with high footfall and wide frontage."
   }
 ]
