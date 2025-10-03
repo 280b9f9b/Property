@@ -143,6 +143,26 @@
     "expire": "100",
     "desc": "Spacious villa with garden and garage in a calm community."
   },
+    {
+    "id": "family-villa-in-al-raha",
+    "title": "Family Villa in Al Raha",
+    "type": "Villa",
+    "sale": "buy",
+    "status": "Sold",
+    "price": 3400000,
+    "priceText": "AED 3,400,000",
+    "beds": 4,
+    "baths": 3,
+    "size": 350,
+    "location": "Al Raha",
+    "img": "assets/images/property-2.jpg",
+    "images": [
+      "assets/images/property-2.jpg"
+    ],
+    "dateAdded": "2025-09-14",
+    "expire": "100",
+    "desc": "Spacious villa with garden and garage in a calm community."
+  },
   {
     "id": "retail-space-prime-location",
     "title": "Retail Space — Prime Location",
