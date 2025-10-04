@@ -11,13 +11,13 @@
     "baths": 5,
     "size": 120,
     "location": "Abu Dhabi Island",
-    "img": "https://github.com/280b9f9b/Property/blob/main/Al%20Manhal%2001/01.jpeg",
+    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
     "images": [
-      "https://github.com/280b9f9b/Property/blob/main/Al%20Manhal%2001/01.jpeg",
-      "https://github.com/280b9f9b/Property/blob/main/Al%20Manhal%2001/02.jpeg",
-      "https://github.com/280b9f9b/Property/blob/main/Al%20Manhal%2001/03.jpeg",
-      "https://github.com/280b9f9b/Property/blob/main/Al%20Manhal%2001/04.jpeg",
-      "https://github.com/280b9f9b/Property/blob/main/Al%20Manhal%2001/05.jpeg"
+      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/01.jpeg",
+      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/02.jpeg",
+      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/03.jpeg",
+      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/04.jpeg",
+      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/05.jpeg"
     ],
     "dateAdded": "2025-09-20",
     "expire": "100",
