@@ -1,4 +1,26 @@
 [
+    {
+    "id": "Mamsha Al Saadiyat 9-01",
+    "title": "Turquoise 9",
+    "type": "Apartment",
+    "sale": "Rent",
+    "status": "unavailable",
+    "price": 450000,
+    "priceText": "AED 450,000",
+    "beds": 2,
+    "baths": 4,
+    "size": 0,
+    "location": "Al Saadiyat Island",
+    "img": "https://miraestate.ae/uploads/1734604268.226261.jpg",
+    "images": [
+      "https://miraestate.ae/uploads/1734604268.226261.jpg",
+      "https://www.propertyfinder.ae/property/ae6075196c6d85f3a50b7987ea0021ef/416/272/MODE/1b0548/15030532-33cc9o.webp",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/698668476.jpg"
+    ],
+    "dateAdded": "2025-09-20",
+    "expire": "100",
+    "desc": "Discover refined city living at Al Manhal Building, a spacious 4-bedroom apartment located in the heart of Abu Dhabi Island. Designed for comfort and functionality, this residence features elegant interiors, five modern bathrooms, and a generous layout ideal for families. Enjoy close proximity to shopping, dining, and key landmarks, all while experiencing the convenience of premium urban living in one of the capital’s most connected neighborhoods."
+  },
   {
     "id": "Al Manhal 102 01",
     "title": "Al Manhal Building",
