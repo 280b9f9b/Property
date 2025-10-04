@@ -1,16 +1,16 @@
 [
   {
-    "id": "AlAin",
-    "title": "Al Ghadeer",
+    "id": "Al Manhal 01",
+    "title": "Al Manhal Building",
     "type": "Apartment",
-    "sale": "buy",
+    "sale": "Rent",
     "status": "unavailable",
-    "price": 18500000,
-    "priceText": "AED 1,850,000",
-    "beds": 2,
-    "baths": 2,
+    "price": 170000,
+    "priceText": "AED 1,50,000",
+    "beds": 4,
+    "baths": 5,
     "size": 120,
-    "location": "Marina",
+    "location": "Abu Dhabi Island",
     "img": "https://images.bayut.com/thumbnails/797195643-800x600.webp",
     "images": [
       "https://images.bayut.com/thumbnails/797195526-800x600.webp",
@@ -21,7 +21,7 @@
     ],
     "dateAdded": "2025-09-20",
     "expire": "100",
-    "desc": "Modern apartment with marina and skyline views, open-plan living and access to gym & pool."
+    "desc": "Discover refined city living at Al Manhal Building, a spacious 4-bedroom apartment located in the heart of Abu Dhabi Island. Designed for comfort and functionality, this residence features elegant interiors, five modern bathrooms, and a generous layout ideal for families. Enjoy close proximity to shopping, dining, and key landmarks, all while experiencing the convenience of premium urban living in one of the capital’s most connected neighborhoods."
   },
   {
     "id": "downtown-studio",
