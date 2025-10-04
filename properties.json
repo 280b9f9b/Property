@@ -7,7 +7,7 @@
     "status": "unavailable",
     "price": 170000,
     "priceText": "AED 1,70,000",
-    "beds": 4,
+    "beds": 4+,
     "baths": 5,
     "size": 120,
     "location": "Abu Dhabi Island",
