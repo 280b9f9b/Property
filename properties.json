@@ -32,7 +32,7 @@
     "status": "unavailable",
     "price": 85000,
     "priceText": "AED 85,000 / yr",
-    "beds": 0,
+    "beds": "Studio",
     "baths": 1,
     "size": 45,
     "location": "Downtown",
