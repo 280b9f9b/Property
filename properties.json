@@ -1,212 +1,5 @@
 [
-    {
-    "id": "Mamsha Al Saadiyat 9-01",
-    "title": "Turquoise 9",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": 450000,
-    "priceText": "AED 450,000",
-    "beds": 2,
-    "baths": 4,
-    "size": 0,
-    "location": "Al Saadiyat Island",
-    "img": "https://miraestate.ae/uploads/1734604268.226261.jpg",
-    "images": [
-      "https://miraestate.ae/uploads/1734604268.226261.jpg",
-      "https://www.propertyfinder.ae/property/ae6075196c6d85f3a50b7987ea0021ef/416/272/MODE/1b0548/15030532-33cc9o.webp",
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/698668476.jpg"
-    ],
-    "dateAdded": "2025-10-01",
-    "expire": "100",
-    "desc": "Discover refined city living at Al Manhal Building, a spacious 4-bedroom apartment located in the heart of Abu Dhabi Island. Designed for comfort and functionality, this residence features elegant interiors, five modern bathrooms, and a generous layout ideal for families. Enjoy close proximity to shopping, dining, and key landmarks, all while experiencing the convenience of premium urban living in one of the capital’s most connected neighborhoods."
-  },
-  {
-    "id": "Al Manhal 102 01",
-    "title": "Al Manhal Building",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": 170000,
-    "priceText": "AED 1,70,000",
-    "beds": 4,
-    "baths": 5,
-    "size": 120,
-    "location": "Abu Dhabi Island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "images": [
-      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/01.jpeg",
-      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/02.jpeg",
-      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/03.jpeg",
-      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/04.jpeg",
-      "https://raw.githubusercontent.com/280b9f9b/Property/refs/heads/main/Al%20Manhal%2001/05.jpeg"
-    ],
-    "dateAdded": "2025-10-02",
-    "expire": "100",
-    "desc": "Discover refined city living at Al Manhal Building, a spacious 4-bedroom apartment located in the heart of Abu Dhabi Island. Designed for comfort and functionality, this residence features elegant interiors, five modern bathrooms, and a generous layout ideal for families. Enjoy close proximity to shopping, dining, and key landmarks, all while experiencing the convenience of premium urban living in one of the capital’s most connected neighborhoods."
-  },
-  {
-    "id": "Al Manhal 102 02",
-    "title": "Downtown Studio",
-    "type": "Studio",
-    "sale": "rent",
-    "status": "unavailable",
-    "price": 85000,
-    "priceText": "AED 85,000 / yr",
-    "beds": "Studio",
-    "baths": 1,
-    "size": 45,
-    "location": "Downtown",
-    "img": "assets/images/property-2.jpg",
-    "images": [
-      "assets/images/property-2.jpg"
-    ],
-    "dateAdded": "2025-09-25",
-    "expire": "100",
-    "desc": "Efficient studio in the heart of Downtown with easy access to transport and retail."
-  },
-  {
-    "id": "Al Manhal 102 03",
-    "title": "Palm Villa Retreat",
-    "type": "Villa",
-    "sale": "buy",
-    "status": "unavailable",
-    "price": 7900000,
-    "priceText": "AED 7,900,000",
-    "beds": 5,
-    "baths": 6,
-    "size": 520,
-    "location": "Palm Jumeirah",
-    "img": "assets/images/property-3.jpg",
-    "images": [
-      "assets/images/property-3.jpg"
-    ],
-    "dateAdded": "2025-09-12",
-    "expire": "100",
-    "desc": "Private pool, landscaped garden, and direct beach access. Perfect for family living."
-  },
-  {
-    "id": "townhouse-with-garden",
-    "title": "Townhouse with Garden",
-    "type": "Townhouse",
-    "sale": "rent",
-    "status": "unavailable",
-    "price": 420000,
-    "priceText": "AED 420,000 / yr",
-    "beds": 3,
-    "baths": 3,
-    "size": 210,
-    "location": "Arabian Ranches",
-    "img": "assets/images/property-4.jpg",
-    "images": [
-      "assets/images/property-4.jpg"
-    ],
-    "dateAdded": "2025-09-18",
-    "expire": "100",
-    "desc": "Corner unit with a spacious garden and community clubhouse access."
-  },
-  {
-    "id": "skyline-office-floor",
-    "title": "Skyline Office Floor",
-    "type": "Office",
-    "sale": "rent",
-    "status": "unavailable",
-    "price": 300000,
-    "priceText": "AED 300,000 / yr",
-    "beds": 0,
-    "baths": 2,
-    "size": 380,
-    "location": "Business Bay",
-    "img": "assets/images/property-1.jpg",
-    "images": [
-      "assets/images/property-1.jpg"
-    ],
-    "dateAdded": "2025-09-10",
-    "expire": "100",
-    "desc": "Grade A office floor with skyline views, fitted and ready for immediate move-in."
-  },
-  {
-    "id": "beachfront-apartment",
-    "title": "Beachfront Apartment",
-    "type": "Apartment",
-    "sale": "buy",
-    "status": "unavailable",
-    "price": 3250000,
-    "priceText": "AED 3,250,000",
-    "beds": 3,
-    "baths": 3,
-    "size": 165,
-    "location": "JBR",
-    "img": "assets/images/property-2.jpg",
-    "images": [
-      "assets/images/property-2.jpg"
-    ],
-    "dateAdded": "2025-09-22",
-    "expire": "100",
-    "desc": "Bright beachfront home with sea views, large balcony, and premium building amenities."
-  },
-  {
-    "id": "family-villa-in-al-raha",
-    "title": "Family Villa in Al Raha",
-    "type": "Villa",
-    "sale": "buy",
-    "status": "unavailable",
-    "price": 3400000,
-    "priceText": "AED 3,400,000",
-    "beds": 4,
-    "baths": 3,
-    "size": 350,
-    "location": "Al Raha",
-    "img": "assets/images/property-2.jpg",
-    "images": [
-      "assets/images/property-2.jpg"
-    ],
-    "dateAdded": "2025-09-14",
-    "expire": "100",
-    "desc": "Spacious villa with garden and garage in a calm community."
-  },
-    {
-    "id": "family-villa-in-al-raha",
-    "title": "Family Villa in Al Raha",
-    "type": "Villa",
-    "sale": "buy",
-    "status": "Sold",
-    "price": 3400000,
-    "priceText": "AED 3,400,000",
-    "beds": 4,
-    "baths": 3,
-    "size": 350,
-    "location": "Al Raha",
-    "img": "assets/images/property-2.jpg",
-    "images": [
-      "assets/images/property-2.jpg"
-    ],
-    "dateAdded": "2025-09-14",
-    "expire": "100",
-    "desc": "Spacious villa with garden and garage in a calm community."
-  },
-  {
-    "id": "retail-space-prime-location",
-    "title": "Retail Space — Prime Location",
-    "type": "Commercial",
-    "sale": "rent",
-    "status": "unavailable",
-    "price": 85000,
-    "priceText": "AED 85,000 / yr",
-    "beds": 0,
-    "baths": 1,
-    "size": 120,
-    "location": "Downtown",
-    "img": "assets/images/property-3.jpg",
-    "images": [
-      "assets/images/property-3.jpg"
-    ],
-    "dateAdded": "2025-09-08",
-    "expire": "100",
-    "desc": "Street-level retail with high footfall and wide frontage."
-  },
-
+    
 
 
 
@@ -226,7 +19,7 @@
   "images": [
     "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
   ],
-  "dateAdded": "2025-10-05",
+  "dateAdded": "2025-10-01",
   "expire": "100",
   "desc": "A spacious 3-bedroom apartment in the Al Manhal Building on Abu Dhabi Island, offering exceptional value in a prime city location. The apartment includes three well-sized bedrooms, four bathrooms, and an inviting living area ideal for family gatherings. With modern finishes, natural lighting, and a functional kitchen layout, this home provides both comfort and practicality. Al Manhal Building is conveniently positioned near schools, supermarkets, and major transport routes—making it an excellent option for families seeking central and affordable living."
 },
@@ -245,7 +38,7 @@
   "images": [
     "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
   ],
-  "dateAdded": "2025-10-06",
+  "dateAdded": "2025-09-06",
   "expire": "100",
   "desc": "A bright and spacious 3-bedroom apartment in the Al Manhal Building on Abu Dhabi Island, ideal for families seeking comfort and city convenience. This unit features three bedrooms, four bathrooms, and an open living and dining layout designed for modern living. The apartment offers a functional kitchen, large windows for ample natural light, and a welcoming atmosphere throughout. Conveniently located near shops, schools, and transport links, Al Manhal Building combines practical living with a prime central location."
 },
@@ -264,7 +57,7 @@
   "images": [
     "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
   ],
-  "dateAdded": "2025-10-07",
+  "dateAdded": "2025-09-07",
   "expire": "100",
   "desc": "A spacious 4-bedroom apartment located in the Al Manhal Building on Abu Dhabi Island, offering generous interiors ideal for families. This well-designed unit features four bedrooms, five bathrooms, and a large living and dining area, complemented by a modern closed kitchen. Residents enjoy a convenient urban lifestyle close to schools, shopping centers, and public amenities. With its central location and ample space, this apartment is perfect for those seeking comfort and accessibility in the heart of Abu Dhabi."
 },
@@ -303,14 +96,14 @@
   "images": [
     "https://www.propertyfinder.ae/property/ae6075196c6d85f3a50b7987ea0021ef/416/272/MODE/1b0548/15030532-33cc9o.webp"
   ],
-  "dateAdded": "2025-10-10",
+  "dateAdded": "2025-09-10",
   "expire": "100",
   "desc": "Located in the prestigious Mamsha Al Saadiyat beachfront community, Turquoise 9 is a modern 2-bedroom apartment offering a sophisticated coastal lifestyle. The spacious layout features two en-suite bedrooms, four bathrooms, and open-concept living areas that seamlessly blend comfort with elegance. Large windows fill the interior with natural light while offering serene views of the island surroundings. Residents enjoy direct access to the promenade, white-sand beaches, and vibrant dining venues nearby—making Turquoise 9 an exceptional choice for those seeking luxury island living in Abu Dhabi."
 },
 
 {
   "id": "Sweihan-602",
-  "title": "Sweihan Palms Holiday Farm",
+  "title": "Sweihan Palms - Holiday Farm",
   "type": "Villa",
   "sale": "Rent",
   "status": "unavailable",
@@ -323,7 +116,7 @@
   "images": [
     "https://blueskyproperty.ae/assets/images/sweihan-palms.jpg"
   ],
-  "dateAdded": "2025-10-12",
+  "dateAdded": "2025-10-02",
   "expire": "100",
   "desc": "Nestled in the peaceful heart of Sweihan Town, Sweihan Palms offers an exclusive private villa experience designed for relaxation and comfort. This spacious 3-bedroom villa with 4 bathrooms combines elegant interiors with serene outdoor spaces, perfect for a family getaway or a private retreat. Featuring a modern kitchen, large living area, and shaded outdoor sitting space, the property invites you to unwind in a tranquil desert setting. Ideal for weekend escapes or longer stays, Sweihan Palms promises a refreshing holiday experience away from the city bustle."
 }
