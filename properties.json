@@ -213,7 +213,7 @@
  
 {
   "id": "Al Manhal-102-B1",
-  "title": "Al Manhal Building",
+  "title": "Al Manhal Building 3 Bed+",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -232,7 +232,7 @@
 },
 {
   "id": "Al Manhal-102-B2",
-  "title": "Al Manhal Building",
+  "title": "Al Manhal Building 3 Bed+",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -251,7 +251,7 @@
 },
 {
   "id": "Al Manhal-102-C",
-  "title": "Al Manhal Building",
+  "title": "Al Manhal Building 4 Bed+",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -271,7 +271,7 @@
 
 {
   "id": "Al Manhal-102-A",
-  "title": "Al Manhal Building",
+  "title": "Al Manhal Building Studio",
   "type": "Studio",
   "sale": "Rent",
   "status": "unavailable",
@@ -289,7 +289,7 @@
   "desc": "A well-maintained studio apartment located in the central Al Manhal area of Abu Dhabi Island. This compact yet comfortable unit offers a practical layout with an open living and sleeping area, modern bathroom, and fitted kitchen. Ideal for individuals or professionals seeking affordable urban living with easy access to key city destinations, public transport, shops, and restaurants. Al Manhal Building provides convenience, security, and value in one of the city’s most accessible neighborhoods."
 },
 {
-  "id": "Mamsha Al Saadiyat",
+  "id": "Mamsha Al Saadiyat 2 Bed+",
   "title": "Turquoise 9",
   "type": "Apartment",
   "sale": "Rent",
@@ -310,7 +310,7 @@
 
 {
   "id": "Sweihan-602",
-  "title": "Sweihan Palms",
+  "title": "Sweihan Palms Holiday Farm",
   "type": "Villa",
   "sale": "Rent",
   "status": "unavailable",
