@@ -210,84 +210,22 @@
 
 
 
-    
-  {
-    "id": "Al Manhal-102-101",
-    "title": "Al Manhal Building",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "120000",
-    "priceText": "AED 120,000",
-    "beds": "3",
-    "baths": "4",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-01",
-    "expire": "100",
-    "desc": "Apartment"
-  },
-  {
-    "id": "Al Manhal-102-102",
-    "title": "Al Manhal Building",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "120000",
-    "priceText": "AED 120,000",
-    "beds": "3",
-    "baths": "4",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-02",
-    "expire": "100",
-    "desc": "Apartment"
-  },
-  {
-    "id": "Al Manhal-102-201",
-    "title": "Al Manhal Building",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "120000",
-    "priceText": "AED 120,000",
-    "beds": "3",
-    "baths": "4",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-03",
-    "expire": "100",
-    "desc": "Apartment"
-  },
-  {
-    "id": "Al Manhal-102-202",
-    "title": "Al Manhal Building",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "120000",
-    "priceText": "AED 120,000",
-    "beds": "3",
-    "baths": "4",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-04",
-    "expire": "100",
-    "desc": "Apartment"
-  },
+ 
   {
     "id": "Al Manhal-102-301",
     "title": "Al Manhal Building",
     "type": "Apartment",
     "sale": "Rent",
     "status": "unavailable",
-    "price": "120000",
+    "price": "75000",
     "priceText": "AED 120,000",
     "beds": "3",
     "baths": "4",
     "location": "Abu Dhabi island",
     "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-05",
+          "images": [
+      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+    ],    "dateAdded": "2025-10-05",
     "expire": "100",
     "desc": "Apartment"
   },
@@ -297,13 +235,15 @@
     "type": "Apartment",
     "sale": "Rent",
     "status": "unavailable",
-    "price": "120000",
+    "price": "130000",
     "priceText": "AED 120,000",
     "beds": "3",
     "baths": "4",
     "location": "Abu Dhabi island",
     "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-06",
+          "images": [
+      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+    ],    "dateAdded": "2025-10-06",
     "expire": "100",
     "desc": "Apartment"
   },
@@ -319,26 +259,13 @@
     "baths": "5",
     "location": "Abu Dhabi island",
     "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-07",
+          "images": [
+      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+    ],    "dateAdded": "2025-10-07",
     "expire": "100",
     "desc": "Apartment"
   },
-  {
-    "id": "Al Manhal-102-501",
-    "title": "Al Manhal Building",
-    "type": "Studio",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "50000",
-    "priceText": "AED 50,000",
-    "beds": "0",
-    "baths": "1",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-08",
-    "expire": "100",
-    "desc": "Studio"
-  },
+
   {
     "id": "Al Manhal-102-502",
     "title": "Al Manhal Building",
@@ -351,7 +278,9 @@
     "baths": "1",
     "location": "Abu Dhabi island",
     "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-09",
+          "images": [
+      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+    ],    "dateAdded": "2025-10-09",
     "expire": "100",
     "desc": "Studio"
   },
@@ -361,32 +290,19 @@
     "type": "Apartment",
     "sale": "Rent",
     "status": "unavailable",
-    "price": "450000",
-    "priceText": "AED 450,000",
+    "price": "Price on request",
+    "priceText": "Price on request",
     "beds": "2",
     "baths": "4",
     "location": "Al Saadiyat island",
     "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-10",
+          "images": [
+      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+    ],    "dateAdded": "2025-10-10",
     "expire": "100",
     "desc": "Apartment"
   },
-  {
-    "id": "Sweihan-602-01",
-    "title": "Sweihan Palms",
-    "type": "Villa",
-    "sale": "Holiday Home",
-    "status": "unavailable",
-    "price": "5000",
-    "priceText": "AED 5,000",
-    "beds": "4",
-    "baths": "4",
-    "location": "Sweihan Town",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-11",
-    "expire": "100",
-    "desc": "Villa"
-  },
+
   {
     "id": "Sweihan-602-02",
     "title": "Sweihan Palms",
@@ -399,7 +315,9 @@
     "baths": "4",
     "location": "Sweihan Town",
     "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-    "dateAdded": "2025-10-12",
+          "images": [
+      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+    ],    "dateAdded": "2025-10-12",
     "expire": "100",
     "desc": "Villa"
   }
