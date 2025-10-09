@@ -6,7 +6,7 @@
  
 {
   "id": "Al Manhal-102-B1",
-  "title": "Al Manhal Building Apt. 3 Bed+",
+  "title": "Al Manhal Building Apt. 3 BR + Maids",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -25,7 +25,7 @@
 },
 {
   "id": "Al Manhal-102-B2",
-  "title": "Al Manhal Building Apt. 3 Bed+",
+  "title": "Al Manhal Building Apt. 3 BR + Maids",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -44,7 +44,7 @@
 },
 {
   "id": "Al Manhal-102-C",
-  "title": "Al Manhal Building Apt. 4 Bed+",
+  "title": "Al Manhal Building Apt. 4 BR + Maids",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -83,7 +83,7 @@
 },
 {
   "id": "Mamsha Al Saadiyat",
-  "title": "Turquoise 9 - Apt. 2 Bed+",
+  "title": "Turquoise 9 - Apt. 2 BR + Maids",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
