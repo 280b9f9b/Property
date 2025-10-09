@@ -6,7 +6,7 @@
  
 {
   "id": "Al Manhal-102-B1",
-  "title": "Al Manhal Building 3 Bed+",
+  "title": "Al Manhal Building Apartment 3 Bed+",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -19,13 +19,13 @@
   "images": [
     "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
   ],
-  "dateAdded": "2025-10-01",
+  "dateAdded": "2025-10-03",
   "expire": "100",
   "desc": "A spacious 3-bedroom apartment in the Al Manhal Building on Abu Dhabi Island, offering exceptional value in a prime city location. The apartment includes three well-sized bedrooms, four bathrooms, and an inviting living area ideal for family gatherings. With modern finishes, natural lighting, and a functional kitchen layout, this home provides both comfort and practicality. Al Manhal Building is conveniently positioned near schools, supermarkets, and major transport routes—making it an excellent option for families seeking central and affordable living."
 },
 {
   "id": "Al Manhal-102-B2",
-  "title": "Al Manhal Building 3 Bed+",
+  "title": "Al Manhal Building Apartment 3 Bed+",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -44,7 +44,7 @@
 },
 {
   "id": "Al Manhal-102-C",
-  "title": "Al Manhal Building 4 Bed+",
+  "title": "Al Manhal Building Apartment 4 Bed+",
   "type": "Apartment",
   "sale": "Rent",
   "status": "unavailable",
@@ -82,7 +82,7 @@
   "desc": "A well-maintained studio apartment located in the central Al Manhal area of Abu Dhabi Island. This compact yet comfortable unit offers a practical layout with an open living and sleeping area, modern bathroom, and fitted kitchen. Ideal for individuals or professionals seeking affordable urban living with easy access to key city destinations, public transport, shops, and restaurants. Al Manhal Building provides convenience, security, and value in one of the city’s most accessible neighborhoods."
 },
 {
-  "id": "Mamsha Al Saadiyat 2 Bed+",
+  "id": "Mamsha Al Saadiyat - Apartment 2 Bed+",
   "title": "Turquoise 9",
   "type": "Apartment",
   "sale": "Rent",
@@ -116,7 +116,7 @@
   "images": [
     "https://blueskyproperty.ae/assets/images/sweihan-palms.jpg"
   ],
-  "dateAdded": "2025-10-02",
+  "dateAdded": "2025-10-04",
   "expire": "100",
   "desc": "Nestled in the peaceful heart of Sweihan Town, Sweihan Palms offers an exclusive private villa experience designed for relaxation and comfort. This spacious 3-bedroom villa with 4 bathrooms combines elegant interiors with serene outdoor spaces, perfect for a family getaway or a private retreat. Featuring a modern kitchen, large living area, and shaded outdoor sitting space, the property invites you to unwind in a tranquil desert setting. Ideal for weekend escapes or longer stays, Sweihan Palms promises a refreshing holiday experience away from the city bustle."
 }
