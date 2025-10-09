@@ -211,114 +211,121 @@
 
 
  
-  {
-    "id": "Al Manhal-102-301",
-    "title": "Al Manhal Building",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "75000",
-    "priceText": "AED 120,000",
-    "beds": "3",
-    "baths": "4",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-          "images": [
-      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
-    ],    "dateAdded": "2025-10-05",
-    "expire": "100",
-    "desc": "Apartment"
-  },
-  {
-    "id": "Al Manhal-102-302",
-    "title": "Al Manhal Building",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "130000",
-    "priceText": "AED 120,000",
-    "beds": "3",
-    "baths": "4",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-          "images": [
-      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
-    ],    "dateAdded": "2025-10-06",
-    "expire": "100",
-    "desc": "Apartment"
-  },
-  {
-    "id": "Al Manhal-102-401",
-    "title": "Al Manhal Building",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "160000",
-    "priceText": "AED 160,000",
-    "beds": "4",
-    "baths": "5",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-          "images": [
-      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
-    ],    "dateAdded": "2025-10-07",
-    "expire": "100",
-    "desc": "Apartment"
-  },
+{
+  "id": "Al Manhal-102-B1",
+  "title": "Al Manhal Building",
+  "type": "Apartment",
+  "sale": "Rent",
+  "status": "unavailable",
+  "price": "75000",
+  "priceText": "AED 75,000",
+  "beds": "3",
+  "baths": "4",
+  "location": "Abu Dhabi Island",
+  "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
+  "images": [
+    "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+  ],
+  "dateAdded": "2025-10-05",
+  "expire": "100",
+  "desc": "A spacious 3-bedroom apartment in the Al Manhal Building on Abu Dhabi Island, offering exceptional value in a prime city location. The apartment includes three well-sized bedrooms, four bathrooms, and an inviting living area ideal for family gatherings. With modern finishes, natural lighting, and a functional kitchen layout, this home provides both comfort and practicality. Al Manhal Building is conveniently positioned near schools, supermarkets, and major transport routes—making it an excellent option for families seeking central and affordable living."
+},
+{
+  "id": "Al Manhal-102-B2",
+  "title": "Al Manhal Building",
+  "type": "Apartment",
+  "sale": "Rent",
+  "status": "unavailable",
+  "price": "130000",
+  "priceText": "AED 130,000",
+  "beds": "3",
+  "baths": "4",
+  "location": "Abu Dhabi Island",
+  "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
+  "images": [
+    "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+  ],
+  "dateAdded": "2025-10-06",
+  "expire": "100",
+  "desc": "A bright and spacious 3-bedroom apartment in the Al Manhal Building on Abu Dhabi Island, ideal for families seeking comfort and city convenience. This unit features three bedrooms, four bathrooms, and an open living and dining layout designed for modern living. The apartment offers a functional kitchen, large windows for ample natural light, and a welcoming atmosphere throughout. Conveniently located near shops, schools, and transport links, Al Manhal Building combines practical living with a prime central location."
+},
+{
+  "id": "Al Manhal-102-C",
+  "title": "Al Manhal Building",
+  "type": "Apartment",
+  "sale": "Rent",
+  "status": "unavailable",
+  "price": "160000",
+  "priceText": "AED 160,000",
+  "beds": "4",
+  "baths": "5",
+  "location": "Abu Dhabi Island",
+  "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
+  "images": [
+    "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+  ],
+  "dateAdded": "2025-10-07",
+  "expire": "100",
+  "desc": "A spacious 4-bedroom apartment located in the Al Manhal Building on Abu Dhabi Island, offering generous interiors ideal for families. This well-designed unit features four bedrooms, five bathrooms, and a large living and dining area, complemented by a modern closed kitchen. Residents enjoy a convenient urban lifestyle close to schools, shopping centers, and public amenities. With its central location and ample space, this apartment is perfect for those seeking comfort and accessibility in the heart of Abu Dhabi."
+},
 
-  {
-    "id": "Al Manhal-102-502",
-    "title": "Al Manhal Building",
-    "type": "Studio",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "50000",
-    "priceText": "AED 50,000",
-    "beds": "0",
-    "baths": "1",
-    "location": "Abu Dhabi island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-          "images": [
-      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
-    ],    "dateAdded": "2025-10-09",
-    "expire": "100",
-    "desc": "Studio"
-  },
-  {
-    "id": "Mamsha Al Saadiyat",
-    "title": "Turquoise 9",
-    "type": "Apartment",
-    "sale": "Rent",
-    "status": "unavailable",
-    "price": "Price on request",
-    "priceText": "Price on request",
-    "beds": "2",
-    "baths": "4",
-    "location": "Al Saadiyat island",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-          "images": [
-      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
-    ],    "dateAdded": "2025-10-10",
-    "expire": "100",
-    "desc": "Apartment"
-  },
+{
+  "id": "Al Manhal-102-A",
+  "title": "Al Manhal Building",
+  "type": "Studio",
+  "sale": "Rent",
+  "status": "unavailable",
+  "price": "50000",
+  "priceText": "AED 50,000",
+  "beds": "0",
+  "baths": "1",
+  "location": "Abu Dhabi Island",
+  "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
+  "images": [
+    "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
+  ],
+  "dateAdded": "2025-10-09",
+  "expire": "100",
+  "desc": "A well-maintained studio apartment located in the central Al Manhal area of Abu Dhabi Island. This compact yet comfortable unit offers a practical layout with an open living and sleeping area, modern bathroom, and fitted kitchen. Ideal for individuals or professionals seeking affordable urban living with easy access to key city destinations, public transport, shops, and restaurants. Al Manhal Building provides convenience, security, and value in one of the city’s most accessible neighborhoods."
+},
+{
+  "id": "Mamsha Al Saadiyat",
+  "title": "Turquoise 9",
+  "type": "Apartment",
+  "sale": "Rent",
+  "status": "unavailable",
+  "price": "Price on request",
+  "priceText": "Price on request",
+  "beds": "2",
+  "baths": "4",
+  "location": "Al Saadiyat Island",
+  "img": "https://www.propertyfinder.ae/property/ae6075196c6d85f3a50b7987ea0021ef/416/272/MODE/1b0548/15030532-33cc9o.webp",
+  "images": [
+    "https://www.propertyfinder.ae/property/ae6075196c6d85f3a50b7987ea0021ef/416/272/MODE/1b0548/15030532-33cc9o.webp"
+  ],
+  "dateAdded": "2025-10-10",
+  "expire": "100",
+  "desc": "Located in the prestigious Mamsha Al Saadiyat beachfront community, Turquoise 9 is a modern 2-bedroom apartment offering a sophisticated coastal lifestyle. The spacious layout features two en-suite bedrooms, four bathrooms, and open-concept living areas that seamlessly blend comfort with elegance. Large windows fill the interior with natural light while offering serene views of the island surroundings. Residents enjoy direct access to the promenade, white-sand beaches, and vibrant dining venues nearby—making Turquoise 9 an exceptional choice for those seeking luxury island living in Abu Dhabi."
+},
 
-  {
-    "id": "Sweihan-602-02",
-    "title": "Sweihan Palms",
-    "type": "Villa",
-    "sale": "Holiday Home",
-    "status": "unavailable",
-    "price": "2500",
-    "priceText": "AED 2,500",
-    "beds": "3",
-    "baths": "4",
-    "location": "Sweihan Town",
-    "img": "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg",
-          "images": [
-      "https://storage2.emirates.estate/static/p/602t6wgh2hjo/4ktf77cssryd9yoc6xx5/almanhal00_890x440.jpg"
-    ],    "dateAdded": "2025-10-12",
-    "expire": "100",
-    "desc": "Villa"
-  }
+{
+  "id": "Sweihan-602",
+  "title": "Sweihan Palms",
+  "type": "Villa",
+  "sale": "Holiday Home",
+  "status": "unavailable",
+  "price": "2500",
+  "priceText": "AED 2,500",
+  "beds": "3",
+  "baths": "4",
+  "location": "Sweihan Town",
+  "img": "https://blueskyproperty.ae/assets/images/sweihan-palms.jpg",
+  "images": [
+    "https://blueskyproperty.ae/assets/images/sweihan-palms.jpg"
+  ],
+  "dateAdded": "2025-10-12",
+  "expire": "100",
+  "desc": "Nestled in the peaceful heart of Sweihan Town, Sweihan Palms offers an exclusive private villa experience designed for relaxation and comfort. This spacious 3-bedroom villa with 4 bathrooms combines elegant interiors with serene outdoor spaces, perfect for a family getaway or a private retreat. Featuring a modern kitchen, large living area, and shaded outdoor sitting space, the property invites you to unwind in a tranquil desert setting. Ideal for weekend escapes or longer stays, Sweihan Palms promises a refreshing holiday experience away from the city bustle."
+}
+    
 ]
